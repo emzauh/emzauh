@@ -2,13 +2,13 @@
 
 # 👋 I'm emza
 
-### SEO Manager | Computer Engineering Student
+### Tech SEO Manager
 
 [![GitHub followers](https://img.shields.io/github/followers/emzauh?style=social&label=Follow)](https://github.com/emzauh)
 
 ---
 
-## 🚀 SEO &...
+## 🚀 What I Know
 
 ![Keyword Research](https://img.shields.io/badge/Keyword_Research-FF9800?style=for-the-badge)
 ![Technical SEO](https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge)
@@ -22,9 +22,6 @@
 ![Ahrefs](https://img.shields.io/badge/Ahrefs-0B2545?style=for-the-badge&logo=ahrefs&logoColor=white)
 ![Semrush](https://img.shields.io/badge/Semrush-FF6C2C?style=for-the-badge&logo=semrush&logoColor=white)
 ![Screaming Frog](https://img.shields.io/badge/Screaming_Frog-FF6600?style=for-the-badge&logo=googlechrome&logoColor=white)
-
-## 🛠️ & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
