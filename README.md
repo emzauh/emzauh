@@ -1,6 +1,8 @@
 # 👋 I'm emza
 
-### Tech SEO Manager
+### Tech SEO Manager & Computer Engineering Student
+
+**Portfolio:** [negah.art](https://negah.art) · [nekotek.ir](https://nekotek.ir)
 
 [![GitHub followers](https://img.shields.io/github/followers/emzauh?style=social&label=Follow)](https://github.com/emzauh)
 
@@ -33,6 +35,3 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emzauh@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emzauh)
 
----
-
-**emza | SEO Manager · Code · Results**
